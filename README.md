@@ -15,7 +15,7 @@ This repository contains a project that classifies tweets into six emotion categ
 To get started with the project, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-username/tweet-emotion-classification.git
+git clone https://github.com/johnpospisil/tweet-emotion-classification.git
 cd tweet-emotion-classification
 pip install -r requirements.txt
 ```
@@ -52,6 +52,7 @@ pip install -r requirements.txt
 tweet-emotion-classification/
 │
 ├── emotion-classification-of-tweets.ipynb  # Main Project file
+├── text.csv                                # Data file
 └── README.md                               # This file
 ```
 
